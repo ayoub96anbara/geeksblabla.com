@@ -28,13 +28,13 @@ In this episode of GeeksBlabla we discuss Angular with some Amazing Community fo
 
 05:55 What is Angular?
 
-09:50 different between angular & angular js
+09:50 Different between angular & angular js
 
 25:40 Why I should choose angular instead of react,vuejs,... 
 
 38:10 Angular Jobs
 
-46:02 ionic 
+46:02 Ionic 
 
 50:40 Interview with angular developer
 
@@ -50,9 +50,9 @@ In this episode of GeeksBlabla we discuss Angular with some Amazing Community fo
 
 1:49:00 Testing Angular applications.
 
-1:58:09 laravel & vuejs
+1:58:09 Laravel & vuejs
 
-2:00:40 native script 
+2:00:40 Native script 
 
 2:04:20 Mosh hamedani , Maximilian , Frontend Master
 
@@ -60,13 +60,13 @@ In this episode of GeeksBlabla we discuss Angular with some Amazing Community fo
 
 2:12:25 SEO & Angular
 
-2:14:40 performance & angular
+2:14:40 Performance & Angular
 
-2:19:27 bazel & angular
+2:19:27 Bazel & Angular
 
 2:22:12 What do you guys like and dislike in Angular?
 
-2:23:52 micro frontend & Angular
+2:23:52 Micro frontend & Angular
 
 2:28:53 One last word, tips
 
