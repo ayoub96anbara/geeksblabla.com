@@ -24,31 +24,51 @@ In this episode of GeeksBlabla we discuss Angular with some Amazing Community fo
 
 ## Notes
 
-0:00 - Introduction and welcoming
+00:00 Introduction and welcoming 
 
-0:06 - What is Angular? History and How it’s different than AngularJs
+05:55 What is Angular?
 
-0:14 - Performance issues and how Angular Solves them?
+09:50 different between angular & angular js
 
-0:26 - Pros and cons of Angular (compared to other frameworks or libraries like React)
+25:40 Why I should choose angular instead of react,vuejs,... 
 
-0:38 - Finding jobs as an Angular developer?
+38:10 Angular Jobs
 
-0:50 - Fundamental skills that every Angular developer needs to master.
+46:02 ionic 
 
-0:58 - How to get started?
+50:40 Interview with angular developer
 
-1:13 - Angular and CSS.
+58:05 How to start with angular
 
-1:17 - Reactive Programming and Rxjs.
+1:13:07 Angular and CSS
 
-1:34 - Angular SSG and SSR.
+1:16:39 Reactive Programming and Rxjs.
 
-1:38 - How to organize your Angular projects?
+1:34:28 Angular SSG & SSR
 
-1:49 - Testing Angular applications.
+1:38:10 How to organize your Angular projects?
 
-1:57 - QA.
+1:49:00 Testing Angular applications.
+
+1:58:09 laravel & vuejs
+
+2:00:40 native script 
+
+2:04:20 Mosh hamedani , Maximilian , Frontend Master
+
+2:06:22 JiT vs AoT
+
+2:12:25 SEO & Angular
+
+2:14:40 performance & angular
+
+2:19:27 bazel & angular
+
+2:22:12 What do you guys like and dislike in Angular?
+
+2:23:52 micro frontend & Angular
+
+2:28:53 One last word, tips
 
 ## Links
 
